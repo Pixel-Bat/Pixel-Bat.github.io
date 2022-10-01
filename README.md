@@ -1,4 +1,4 @@
-#NOT MADE BY ME- I forked and changed the image to test some things out
+# NOT MADE BY ME- I forked and changed the image to test some things out
 # Pug in a Rug
 
 A "Useless Website" revolving around a cute pic I found on unsplashed.
