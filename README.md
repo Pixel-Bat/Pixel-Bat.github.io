@@ -1,4 +1,6 @@
+#NOT MADE BY ME- I forked and changed the image to test some things out
 # Pug in a Rug
+
 A "Useless Website" revolving around a cute pic I found on unsplashed.
 
 - You can watch me code it here https://www.youtube.com/watch?v=Sj1vbbRA07g
